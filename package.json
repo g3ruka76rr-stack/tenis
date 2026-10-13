@@ -1,0 +1,13 @@
+{
+  "name": "pista-verde-scraper",
+  "version": "1.0.0",
+  "description": "Automatizacion de datos (TennisAbstract + TennisRatio + TennisExplorer) para PISTA_VERDE",
+  "main": "buscar.js",
+  "type": "commonjs",
+  "scripts": {
+    "buscar": "node buscar.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
